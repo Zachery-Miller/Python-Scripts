@@ -7,11 +7,11 @@ import webbrowser
 from Config import api_config, twllio_config
 from AutomatedHyperNovaOpen import discord_login, discord_authorization, paste_key, init
 
-#authentication
+# authentication
 api = api_config()
 client = twllio_config()
 
-#global variables
+# global variables
 webpage = 'https://dash.hypernova.group/dashboard'
 twitter_account = 'HypernovaGroup'
 tweet_count = 1
