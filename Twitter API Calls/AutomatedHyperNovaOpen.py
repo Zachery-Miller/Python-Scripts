@@ -43,10 +43,3 @@ def paste_key(br, final_key):
     finally:
         br.quit()
     '''
-
-
-
-#key = "D3DA4-12C0B-CE210-677A8"
-#discord_login()
-#discord_authorization()
-#paste_key(key)
